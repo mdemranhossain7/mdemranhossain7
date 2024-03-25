@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1746104217087954945/1705140900/1500x500">
+<img src="https://pbs.twimg.com/profile_banners/1746104217087954945/1705140900/1080x360"> 
 
 <h1 align="center">Hi 👋, I'm Md. Emran Hossain</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
